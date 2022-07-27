@@ -62,14 +62,14 @@
     "programming_skills": [
       {
         "name": "Python",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "Javascript",
         "level": "65%"
       },
       {
-        "name": "HTML5",
+        "name": "HTML",
         "level": "60%"
       },
       {
@@ -78,14 +78,10 @@
       },
       {
         "name": "Rust",
-        "level": "40%"
+        "level": "35%"
       }
     ],
     "framework_knowledge": [
-      {
-        "name": "Ethereum Virtual Machine",
-        "level": "75%"
-      },
       {
         "name": "Tensorflow",
         "level": "85%"
@@ -100,7 +96,11 @@
       },
       {
         "name": "ReactJS",
-        "level": "40%"
+        "level": "50%"
+      },
+      {
+        "name": "EthersJS",
+        "level": "45%"
       }
     ]
   },
