@@ -2,10 +2,10 @@
   "main": {
     "name": "Elijah Wong",
     "occupation": "Lead AI Engineer, builder and problem solver. ",
-    "description": "I like to build solution, develop model, and make simulation. My interests are in the field of AI/ML, Blockchain and Science",
+    "description": "I like to build solution, develop model, and make simulation. My interests are in the field of AI/ML, Blockchain and Science in general",
     "image": "profilepic.jfif",
-    "bio": "I'm a physics trained AI engineer that specialized in data analytics, ML model development and statistics. My other interest is blockchain/DLT technology, especially in the smart contract deployment of ERC721 (NFT) and ERC20 tokens.",
-    "contactmessage": "Please contact me if you are interested to know more",
+    "bio": "I'm a physics trained AI engineer that specialized in ML model development and pipeline, as well as data analytics and statistics. My current interests are in the area of LLM finetuning and applied transfer learning",
+    "contactmessage": "Please contact me if you are interested in my work or have any questions.",
     "email": "elijahwongww@gmail.com",
     "phone": "+60149294419",
     "address": {
@@ -75,10 +75,6 @@
       {
         "name": "Solidity",
         "level": "50%"
-      },
-      {
-        "name": "Rust",
-        "level": "35%"
       }
     ],
     "framework_knowledge": [
@@ -87,7 +83,7 @@
         "level": "85%"
       },
       {
-        "name": "AWS Cloud",
+        "name": "AWS Cloud (SageMaker, EC2, S3, Lambda)",
         "level": "80%"
       },
       {
@@ -95,12 +91,17 @@
         "level": "70%"
       },
       {
-        "name": "ReactJS",
-        "level": "50%"
+        "name": "CI/CD",
+        "level": "70%"
       },
       {
-        "name": "EthersJS",
+        "name": "javascript",
         "level": "45%"
+      }
+      ,
+      {
+        "name": "Flask",
+        "level": "40%"
       }
     ]
   },
@@ -108,7 +109,7 @@
     "projects": [
       {
         "title": "Phymath",
-        "category": "(currently not updated) educational website of physics and maths",
+        "category": "educational website of physics and maths, with physics and AI simulation",
         "image": "logo-phymath.png",
         "url": "https://www.phymath.com"
       },
