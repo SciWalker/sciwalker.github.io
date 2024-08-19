@@ -118,44 +118,44 @@
       {
         "title": "Pipwave eKYC Module: Data Extraction",
         "category": "Implemented for US, Canada, Malaysia, Singapore, China, Indonesia; Developed LLM-based extraction for global use",
-        "image": "logo-phymath.png",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       },
       {
         "title": "Pipwave eKYC Module: Image Fraud Detection",
         "category": "Implemented moire detection, fake face detection, photostat detection, and face matching between document and selfie",
-        "image": "",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       },
       {
         "title": "Pipwave eKYC Module: Image Quality Screening",
         "category": "Implemented blur, exposure, glare, similar side, and skew detection",
-        "image": "",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       },
       {
         "title": "Pipwave eKYC Module: Infrastructure",
         "category": "API integration, AWS Serverless deployment with OpenAPI, Opensearch and DynamoDB for data storage",
-        "image": "",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       },
       {
         "title": "eKYC Automation and Dashboard",
         "category": "Automatic website translator, API testing automation, and dashboard for eKYC results",
-        "image": "",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       },
       {
         "title": "Frontend and Mobile App for eKYC",
         "category": "Capture and submission features for selfie and ID card, integrated with eKYC backend for verification",
-        "image": "",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       },
       {
         "title": "POC Projects",
         "category": "Video translator module, automatic document generator, and AI agent",
-        "image": "",
-        "url": ""
+        "image": "g2g.png",
+        "url": "https://www.g2g.com/my/"
       }
     ]
   },
